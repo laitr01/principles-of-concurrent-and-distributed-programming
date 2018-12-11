@@ -1,2 +1,7 @@
-# principles-of-concurrent-and-distributed-programming
-Principles of Concurrent and Distributed Programming, Second Edition
+# [Sharing] What is Concurrent Programming?
+1. Introduction
+2. Concurrency as Abstract Parallelism
+3. Multitasking
+4. The Terminology of Concurrency
+5. Multiple Computers
+6. The Challenge of Concurrent Programming
